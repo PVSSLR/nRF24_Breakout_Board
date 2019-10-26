@@ -7,7 +7,8 @@ The prerequisites are given below
 *KiCad
 ```
 ### PCB Layout
-<img src="img/desktop.png" width="300" height ="300"> 
+<img src="img/desktop.png" width="500" height ="500"> 
+
 ### 3D View
-<img src="img/Screenshot_2.png" width="300" height ="300"> 
+<img src="img/Screenshot_2.png" width="500" height ="500"> 
 
