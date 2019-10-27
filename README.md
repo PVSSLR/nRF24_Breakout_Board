@@ -12,5 +12,5 @@ The prerequisites are given below
 ### 3D View
 <img src="img/Screenshot_2.png" width="500" height ="500"> 
 
-###Note 
+## #Note 
 Educational purpose only.
