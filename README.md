@@ -11,10 +11,6 @@ The prerequisites are given below
 <img src="images/2.png" width="300" height ="250">
  
 
-### 3D View
-
-
-
  ###  INSTRUCTION 
   1. Go to ``V1.0`` and download the Gerber zip file
   2. To view the layouts you can go to [gerlook](http://gerblook.org/)
@@ -22,5 +18,5 @@ The prerequisites are given below
   
   <img src="images/1.png" >
 
-## #Note 
+### Note 
 Educational purpose only.
