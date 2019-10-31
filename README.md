@@ -1,6 +1,6 @@
 # nRF24_Breakout_Board
 <img src="images/3.gif" width="300" height ="250">
-A breakout board with a inbuild capacitor is designed for nRF24 module. 
+This project is a part of the course "Tech Explorations™ KiCad Like a Pro 2nd edition" in which a breakout board with an inbuild capacitor is designed for nRF24 module. 
 
 ### Prerequisites
 The prerequisites are given below
@@ -19,4 +19,4 @@ The prerequisites are given below
   <img src="images/1.png" >
 
 ### Note 
-Educational purpose only.
+This is for Educational purpose only.
